@@ -1,0 +1,88 @@
+/home/runner/CSharp/bin/Debug/netcoreapp6.0/main
+/home/runner/CSharp/bin/Debug/netcoreapp6.0/main.deps.json
+/home/runner/CSharp/bin/Debug/netcoreapp6.0/main.runtimeconfig.json
+/home/runner/CSharp/bin/Debug/netcoreapp6.0/main.dll
+/home/runner/CSharp/bin/Debug/netcoreapp6.0/ref/main.dll
+/home/runner/CSharp/bin/Debug/netcoreapp6.0/main.pdb
+/home/runner/CSharp/obj/Debug/netcoreapp6.0/main.csproj.AssemblyReference.cache
+/home/runner/CSharp/obj/Debug/netcoreapp6.0/main.GeneratedMSBuildEditorConfig.editorconfig
+/home/runner/CSharp/obj/Debug/netcoreapp6.0/main.AssemblyInfoInputs.cache
+/home/runner/CSharp/obj/Debug/netcoreapp6.0/main.AssemblyInfo.cs
+/home/runner/CSharp/obj/Debug/netcoreapp6.0/main.csproj.CoreCompileInputs.cache
+/home/runner/CSharp/obj/Debug/netcoreapp6.0/main.dll
+/home/runner/CSharp/obj/Debug/netcoreapp6.0/ref/main.dll
+/home/runner/CSharp/obj/Debug/netcoreapp6.0/main.pdb
+/home/runner/CSharp/obj/Debug/netcoreapp6.0/main.genruntimeconfig.cache
+/home/runner/AdvancedMistyroseCalculators/obj/Debug/netcoreapp6.0/main.csproj.AssemblyReference.cache
+/home/runner/AdvancedMistyroseCalculators/obj/Debug/netcoreapp6.0/main.GeneratedMSBuildEditorConfig.editorconfig
+/home/runner/AdvancedMistyroseCalculators/obj/Debug/netcoreapp6.0/main.AssemblyInfoInputs.cache
+/home/runner/AdvancedMistyroseCalculators/obj/Debug/netcoreapp6.0/main.AssemblyInfo.cs
+/home/runner/AdvancedMistyroseCalculators/obj/Debug/netcoreapp6.0/main.csproj.CoreCompileInputs.cache
+/home/runner/AdvancedMistyroseCalculators/obj/Debug/netcoreapp6.0/main.dll
+/home/runner/AdvancedMistyroseCalculators/obj/Debug/netcoreapp6.0/ref/main.dll
+/home/runner/AdvancedMistyroseCalculators/obj/Debug/netcoreapp6.0/main.pdb
+/home/runner/AdvancedMistyroseCalculators/bin/Debug/netcoreapp6.0/main
+/home/runner/AdvancedMistyroseCalculators/bin/Debug/netcoreapp6.0/main.deps.json
+/home/runner/AdvancedMistyroseCalculators/bin/Debug/netcoreapp6.0/main.runtimeconfig.json
+/home/runner/AdvancedMistyroseCalculators/bin/Debug/netcoreapp6.0/main.dll
+/home/runner/AdvancedMistyroseCalculators/bin/Debug/netcoreapp6.0/ref/main.dll
+/home/runner/AdvancedMistyroseCalculators/bin/Debug/netcoreapp6.0/main.pdb
+/home/runner/AdvancedMistyroseCalculators/obj/Debug/netcoreapp6.0/main.genruntimeconfig.cache
+C:\Users\Chuks\3D Objects\DSA\bin\Debug\netcoreapp6.0\main.exe
+C:\Users\Chuks\3D Objects\DSA\bin\Debug\netcoreapp6.0\main.deps.json
+C:\Users\Chuks\3D Objects\DSA\bin\Debug\netcoreapp6.0\main.runtimeconfig.json
+C:\Users\Chuks\3D Objects\DSA\bin\Debug\netcoreapp6.0\main.dll
+C:\Users\Chuks\3D Objects\DSA\bin\Debug\netcoreapp6.0\ref\main.dll
+C:\Users\Chuks\3D Objects\DSA\bin\Debug\netcoreapp6.0\main.pdb
+C:\Users\Chuks\3D Objects\DSA\obj\Debug\netcoreapp6.0\main.csproj.AssemblyReference.cache
+C:\Users\Chuks\3D Objects\DSA\obj\Debug\netcoreapp6.0\main.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Chuks\3D Objects\DSA\obj\Debug\netcoreapp6.0\main.AssemblyInfoInputs.cache
+C:\Users\Chuks\3D Objects\DSA\obj\Debug\netcoreapp6.0\main.AssemblyInfo.cs
+C:\Users\Chuks\3D Objects\DSA\obj\Debug\netcoreapp6.0\main.csproj.CoreCompileInputs.cache
+C:\Users\Chuks\3D Objects\DSA\obj\Debug\netcoreapp6.0\main.dll
+C:\Users\Chuks\3D Objects\DSA\obj\Debug\netcoreapp6.0\ref\main.dll
+C:\Users\Chuks\3D Objects\DSA\obj\Debug\netcoreapp6.0\main.pdb
+C:\Users\Chuks\3D Objects\DSA\obj\Debug\netcoreapp6.0\main.genruntimeconfig.cache
+C:\Users\Chuks\3D Objects\DSA\C#\bin\Debug\netcoreapp6.0\main.exe
+C:\Users\Chuks\3D Objects\DSA\C#\bin\Debug\netcoreapp6.0\main.deps.json
+C:\Users\Chuks\3D Objects\DSA\C#\bin\Debug\netcoreapp6.0\main.runtimeconfig.json
+C:\Users\Chuks\3D Objects\DSA\C#\bin\Debug\netcoreapp6.0\main.dll
+C:\Users\Chuks\3D Objects\DSA\C#\bin\Debug\netcoreapp6.0\ref\main.dll
+C:\Users\Chuks\3D Objects\DSA\C#\bin\Debug\netcoreapp6.0\main.pdb
+C:\Users\Chuks\3D Objects\DSA\C#\bin\Debug\netcoreapp6.0\Microsoft.Extensions.Configuration.dll
+C:\Users\Chuks\3D Objects\DSA\C#\bin\Debug\netcoreapp6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Chuks\3D Objects\DSA\C#\bin\Debug\netcoreapp6.0\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Chuks\3D Objects\DSA\C#\bin\Debug\netcoreapp6.0\Microsoft.Extensions.Configuration.CommandLine.dll
+C:\Users\Chuks\3D Objects\DSA\C#\bin\Debug\netcoreapp6.0\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+C:\Users\Chuks\3D Objects\DSA\C#\bin\Debug\netcoreapp6.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\Chuks\3D Objects\DSA\C#\bin\Debug\netcoreapp6.0\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\Chuks\3D Objects\DSA\C#\bin\Debug\netcoreapp6.0\Microsoft.Extensions.Configuration.UserSecrets.dll
+C:\Users\Chuks\3D Objects\DSA\C#\bin\Debug\netcoreapp6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Chuks\3D Objects\DSA\C#\bin\Debug\netcoreapp6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Chuks\3D Objects\DSA\C#\bin\Debug\netcoreapp6.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\Chuks\3D Objects\DSA\C#\bin\Debug\netcoreapp6.0\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\Chuks\3D Objects\DSA\C#\bin\Debug\netcoreapp6.0\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\Chuks\3D Objects\DSA\C#\bin\Debug\netcoreapp6.0\Microsoft.Extensions.Hosting.dll
+C:\Users\Chuks\3D Objects\DSA\C#\bin\Debug\netcoreapp6.0\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\Chuks\3D Objects\DSA\C#\bin\Debug\netcoreapp6.0\Microsoft.Extensions.Logging.dll
+C:\Users\Chuks\3D Objects\DSA\C#\bin\Debug\netcoreapp6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Chuks\3D Objects\DSA\C#\bin\Debug\netcoreapp6.0\Microsoft.Extensions.Logging.Configuration.dll
+C:\Users\Chuks\3D Objects\DSA\C#\bin\Debug\netcoreapp6.0\Microsoft.Extensions.Logging.Console.dll
+C:\Users\Chuks\3D Objects\DSA\C#\bin\Debug\netcoreapp6.0\Microsoft.Extensions.Logging.Debug.dll
+C:\Users\Chuks\3D Objects\DSA\C#\bin\Debug\netcoreapp6.0\Microsoft.Extensions.Logging.EventLog.dll
+C:\Users\Chuks\3D Objects\DSA\C#\bin\Debug\netcoreapp6.0\Microsoft.Extensions.Logging.EventSource.dll
+C:\Users\Chuks\3D Objects\DSA\C#\bin\Debug\netcoreapp6.0\Microsoft.Extensions.Options.dll
+C:\Users\Chuks\3D Objects\DSA\C#\bin\Debug\netcoreapp6.0\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\Users\Chuks\3D Objects\DSA\C#\bin\Debug\netcoreapp6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Chuks\3D Objects\DSA\C#\bin\Debug\netcoreapp6.0\System.Diagnostics.EventLog.dll
+C:\Users\Chuks\3D Objects\DSA\C#\bin\Debug\netcoreapp6.0\runtimes\win\lib\net6.0\System.Diagnostics.EventLog.Messages.dll
+C:\Users\Chuks\3D Objects\DSA\C#\bin\Debug\netcoreapp6.0\runtimes\win\lib\net6.0\System.Diagnostics.EventLog.dll
+C:\Users\Chuks\3D Objects\DSA\C#\obj\Debug\netcoreapp6.0\main.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Chuks\3D Objects\DSA\C#\obj\Debug\netcoreapp6.0\main.AssemblyInfoInputs.cache
+C:\Users\Chuks\3D Objects\DSA\C#\obj\Debug\netcoreapp6.0\main.AssemblyInfo.cs
+C:\Users\Chuks\3D Objects\DSA\C#\obj\Debug\netcoreapp6.0\main.csproj.CoreCompileInputs.cache
+C:\Users\Chuks\3D Objects\DSA\C#\obj\Debug\netcoreapp6.0\main.csproj.CopyComplete
+C:\Users\Chuks\3D Objects\DSA\C#\obj\Debug\netcoreapp6.0\main.dll
+C:\Users\Chuks\3D Objects\DSA\C#\obj\Debug\netcoreapp6.0\ref\main.dll
+C:\Users\Chuks\3D Objects\DSA\C#\obj\Debug\netcoreapp6.0\main.pdb
+C:\Users\Chuks\3D Objects\DSA\C#\obj\Debug\netcoreapp6.0\main.genruntimeconfig.cache
