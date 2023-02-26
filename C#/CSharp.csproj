@@ -7,4 +7,8 @@
 	<StartupObject>Program</StartupObject>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Folder Include="Queue\Stack\" />
+  </ItemGroup>
+
 </Project>

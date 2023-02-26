@@ -4,9 +4,12 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace CSharp.DoublyLinkedList
+namespace CSharp.Stack.Array
 {
-    interface MyIDoublyLinkedLists
+    interface IMyStack<T>
     {
+        T Peek();
+        T Push(T item);
+        T Pop();
     }
 }

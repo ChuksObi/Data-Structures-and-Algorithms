@@ -17,7 +17,7 @@ namespace CSharp.DoublyLinkedList
         }
     }
 
-    public class DoublyLinkedList<T>
+    public class DoublyLinkedList<T> : IMyDoublyLinkedLists<T>
     {
         public Node<T> head;
         public Node<T> tail;
