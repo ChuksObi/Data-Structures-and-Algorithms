@@ -1,6 +1,6 @@
 # Data Structure and Algorithms with (C++, C# and Python)
 
-This repository contains an implementation of common Data Structures and Algorithms in (C#, and Python). I took the Zero to Mastery course: Master the Coding Interview - Data Structures + Algorithms course by Andrei Neagoie, implemented in Javascript. My aim is to understand the core concepts and implement them in C++, C# and python.
+This repository contains an implementation of common Data Structures and Algorithms in (C++, C#, and Python).
 
 
 ## Overview
