@@ -21,11 +21,19 @@ add_executable(dynamic_array_tests
   Tests/DynamicArrayTests.cpp
 )
 
+add_executable(single_linked_list_tests
+  Tests/SingleLinkedListTests.cpp
+)
+
 target_include_directories(static_array_tests PRIVATE
   ${CMAKE_CURRENT_SOURCE_DIR}
 )
 
 target_include_directories(dynamic_array_tests PRIVATE
+  ${CMAKE_CURRENT_SOURCE_DIR}
+)
+
+target_include_directories(single_linked_list_tests PRIVATE
   ${CMAKE_CURRENT_SOURCE_DIR}
 )
 
@@ -37,6 +45,11 @@ target_link_libraries(dynamic_array_tests PRIVATE
   GTest::gtest_main
 )
 
+target_link_libraries(single_linked_list_tests PRIVATE
+  GTest::gtest_main
+)
+
 include(GoogleTest)
 gtest_discover_tests(static_array_tests)
 gtest_discover_tests(dynamic_array_tests)
+gtest_discover_tests(single_linked_list_tests)
